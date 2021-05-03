@@ -1,7 +1,7 @@
 {
   "name": "markdown-blog",
   "version": "0.1.0",
-  "homepage": "https://react-markdown-blog.netlify.com/",
+  "homepage": "https://alfredhana.github.io//react-markdown-blog",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
